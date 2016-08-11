@@ -1,0 +1,4 @@
+match_history_image_processing/data/sample_images/*
+match_history_image_processing/.ipynb_checkpoints
+match_history_image_processing/exploratory_code/.ipynb_checkpoints
+
